@@ -1,4 +1,4 @@
-# Deep Learning School Projects
+f# Deep Learning School Projects
 
 Collection of machine learning and deep learning projects completed during the **Deep Learning School (MIPT)** program.
 
@@ -39,12 +39,6 @@ Projects:
 * Semantic segmentation of images
 * Object detection
 
-Technologies:
-
-* PyTorch
-* convolutional neural networks
-* modern training pipelines
-
 ---
 
 ## Generative Models
@@ -82,16 +76,6 @@ Projects:
 * Text-to-Speech (TTS)
 * Self-supervised audio models
 
----
-
-## Signal Processing
-
-Audio feature extraction and analysis.
-
-Projects:
-
-* Short-Time Fourier Transform (STFT)
-* Mel-spectrogram generation
 
 ---
 
@@ -105,14 +89,8 @@ Main tools used in the projects:
 * Pandas
 * Matplotlib
 * Scikit-learn
-
----
-
-# About the Program
-
-Deep Learning School is an advanced machine learning program organized by **Moscow Institute of Physics and Technology (MIPT)**.
-
-The program focuses on practical implementation of deep learning methods and modern ML architectures.
+* Librosa
+* Torchaudio
 
 ---
 
@@ -120,7 +98,7 @@ The program focuses on practical implementation of deep learning methods and mod
 
 Evgeny Ilnitskii
 
-Data Analyst / Machine Learning Enthusiast
+Data Analyst / Machine Learning
 
 Contact:
 
