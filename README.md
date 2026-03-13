@@ -1,17 +1,18 @@
 f# Deep Learning School Projects
 
-Collection of machine learning and deep learning projects completed during the **Deep Learning School (MIPT)** program.
+A collection of Machine Learning and Deep Learning projects completed during the **Deep Learning School (MIPT)** program and **Yandex** Bootcamps.
 
 The repository covers a wide range of topics including:
 
 * classical machine learning
 * computer vision
-* natural language processing
 * generative models
-* speech processing
-* modern deep learning architectures
+* natural language processing
+* speech and audio processing
+* reinforcement learning
+* deep learning optimization and model scaling
 
-The goal of this repository is to demonstrate practical implementation of deep learning methods across multiple domains.
+The goal of this repository is to showcase applied experience with modern deep learning architectures and ML pipelines.
 
 ---
 
@@ -76,6 +77,27 @@ Projects:
 * Text-to-Speech (TTS)
 * Self-supervised audio models
 
+---
+
+## Reinforcement Learning
+
+Implementation of fundamental reinforcement learning algorithms.
+
+Projects:
+
+* Cross-Entropy Method for policy optimization
+* Q-Learning for value-based RL
+
+---
+
+## Model Optimization and Scaling (Triton)
+
+These experiments demonstrate techniques used in large-scale model deployment and efficient inference.
+
+Topics explored:
+
+* SwiGLU Activation
+* INT8 Quantization
 
 ---
 
@@ -91,6 +113,7 @@ Main tools used in the projects:
 * Scikit-learn
 * Librosa
 * Torchaudio
+* Triton
 
 ---
 
